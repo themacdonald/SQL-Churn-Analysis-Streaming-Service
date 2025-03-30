@@ -1,0 +1,208 @@
+user_id,cancel_date,cancel_reason
+U0004,2023-04-18,Switched to Competitor
+U0006,2023-10-05,Content Library
+U0017,2023-11-23,Content Library
+U0019,2023-06-05,Content Library
+U0020,2024-03-09,Cost
+U0026,2023-08-07,Technical Issues
+U0031,2023-03-30,Content Library
+U0033,2023-09-19,Technical Issues
+U0035,2023-12-21,Cost
+U0036,2023-07-23,Technical Issues
+U0040,2023-10-14,Content Library
+U0044,2023-12-11,Content Library
+U0047,2023-12-23,Switched to Competitor
+U0051,2023-12-13,Content Library
+U0055,2023-09-09,Switched to Competitor
+U0056,2023-08-31,Content Library
+U0060,2023-10-13,Technical Issues
+U0069,2023-12-07,Cost
+U0070,2024-01-27,Cost
+U0071,2023-11-22,Content Library
+U0072,2023-08-15,Content Library
+U0077,2023-10-01,Technical Issues
+U0078,2023-12-06,Content Library
+U0081,2023-08-30,Switched to Competitor
+U0084,2023-08-18,Cost
+U0085,2023-04-07,Switched to Competitor
+U0086,2023-08-31,Cost
+U0087,2023-06-15,Technical Issues
+U0088,2023-08-25,Cost
+U0091,2023-12-26,Technical Issues
+U0092,2023-08-26,Content Library
+U0094,2023-04-09,Content Library
+U0095,2023-02-27,Cost
+U0100,2023-07-22,Switched to Competitor
+U0101,2024-01-31,Content Library
+U0102,2023-12-18,Switched to Competitor
+U0103,2023-07-26,Switched to Competitor
+U0105,2023-07-28,Cost
+U0108,2023-05-12,Cost
+U0109,2023-08-10,Technical Issues
+U0112,2023-11-27,Content Library
+U0113,2023-10-08,Switched to Competitor
+U0114,2023-07-15,Technical Issues
+U0115,2023-12-08,Cost
+U0117,2023-07-19,Switched to Competitor
+U0118,2023-07-14,Cost
+U0119,2023-10-20,Technical Issues
+U0121,2023-11-12,Technical Issues
+U0124,2023-03-24,Content Library
+U0125,2023-08-12,Content Library
+U0126,2024-01-11,Content Library
+U0127,2023-05-31,Technical Issues
+U0128,2023-04-26,Technical Issues
+U0131,2023-05-29,Technical Issues
+U0135,2023-07-12,Cost
+U0136,2023-04-22,Content Library
+U0140,2023-10-19,Switched to Competitor
+U0144,2023-08-18,Cost
+U0146,2023-09-26,Switched to Competitor
+U0151,2024-01-24,Content Library
+U0152,2023-05-12,Switched to Competitor
+U0158,2023-11-10,Switched to Competitor
+U0161,2023-05-13,Content Library
+U0164,2023-06-05,Cost
+U0168,2023-07-05,Technical Issues
+U0170,2023-06-22,Content Library
+U0171,2023-06-22,Switched to Competitor
+U0175,2023-02-17,Technical Issues
+U0180,2024-02-21,Cost
+U0181,2023-03-31,Switched to Competitor
+U0182,2023-02-04,Switched to Competitor
+U0188,2023-08-15,Cost
+U0189,2023-11-23,Content Library
+U0193,2023-07-24,Switched to Competitor
+U0199,2023-06-27,Content Library
+U0201,2023-09-24,Content Library
+U0205,2023-09-23,Content Library
+U0206,2023-09-29,Technical Issues
+U0208,2023-04-24,Switched to Competitor
+U0210,2023-11-13,Technical Issues
+U0211,2024-03-02,Switched to Competitor
+U0214,2023-12-13,Cost
+U0217,2023-09-30,Switched to Competitor
+U0221,2023-08-31,Technical Issues
+U0222,2023-07-18,Cost
+U0223,2023-12-19,Content Library
+U0225,2024-01-13,Cost
+U0227,2023-11-28,Cost
+U0230,2023-08-05,Cost
+U0231,2023-07-31,Technical Issues
+U0232,2023-10-24,Switched to Competitor
+U0235,2023-12-19,Content Library
+U0236,2023-08-01,Technical Issues
+U0238,2023-12-14,Switched to Competitor
+U0239,2024-02-09,Cost
+U0240,2023-09-21,Technical Issues
+U0242,2023-07-23,Content Library
+U0246,2024-01-03,Content Library
+U0247,2023-07-09,Cost
+U0253,2023-09-10,Cost
+U0254,2023-09-30,Switched to Competitor
+U0255,2023-12-20,Content Library
+U0256,2023-09-08,Cost
+U0261,2023-11-03,Switched to Competitor
+U0264,2023-04-03,Content Library
+U0265,2023-07-11,Switched to Competitor
+U0267,2023-09-14,Technical Issues
+U0268,2023-10-05,Cost
+U0269,2023-12-21,Switched to Competitor
+U0271,2023-12-12,Content Library
+U0274,2023-08-20,Content Library
+U0280,2023-07-13,Content Library
+U0281,2023-02-27,Cost
+U0285,2023-09-15,Technical Issues
+U0287,2023-12-16,Content Library
+U0288,2023-08-06,Switched to Competitor
+U0289,2023-09-03,Content Library
+U0290,2023-08-26,Cost
+U0291,2023-03-20,Cost
+U0295,2023-08-08,Content Library
+U0296,2023-11-24,Cost
+U0298,2023-06-16,Cost
+U0299,2023-08-09,Content Library
+U0302,2023-09-03,Content Library
+U0304,2023-08-29,Technical Issues
+U0305,2024-01-07,Cost
+U0306,2023-07-22,Content Library
+U0308,2024-01-01,Content Library
+U0310,2023-07-23,Technical Issues
+U0311,2023-11-02,Content Library
+U0312,2023-09-12,Content Library
+U0314,2023-09-11,Technical Issues
+U0315,2023-05-17,Technical Issues
+U0317,2024-01-14,Switched to Competitor
+U0320,2024-01-14,Technical Issues
+U0321,2023-05-16,Cost
+U0325,2023-05-12,Cost
+U0327,2023-07-12,Switched to Competitor
+U0332,2023-10-16,Cost
+U0337,2023-06-23,Cost
+U0339,2023-05-26,Cost
+U0342,2023-12-31,Technical Issues
+U0344,2023-12-16,Cost
+U0345,2023-04-12,Content Library
+U0346,2023-09-15,Cost
+U0347,2023-08-04,Cost
+U0350,2023-06-11,Technical Issues
+U0351,2023-05-20,Content Library
+U0354,2023-04-14,Switched to Competitor
+U0357,2023-11-27,Cost
+U0359,2023-10-26,Technical Issues
+U0361,2023-10-18,Content Library
+U0363,2024-01-30,Cost
+U0366,2023-05-29,Technical Issues
+U0367,2023-06-12,Technical Issues
+U0371,2023-05-19,Technical Issues
+U0372,2023-08-11,Technical Issues
+U0374,2023-05-18,Cost
+U0378,2023-05-05,Switched to Competitor
+U0379,2023-05-11,Cost
+U0382,2024-02-28,Cost
+U0383,2023-05-29,Technical Issues
+U0391,2023-07-15,Content Library
+U0393,2023-06-01,Switched to Competitor
+U0395,2023-09-03,Switched to Competitor
+U0402,2023-12-29,Technical Issues
+U0404,2023-11-17,Switched to Competitor
+U0405,2023-12-28,Cost
+U0407,2023-10-08,Switched to Competitor
+U0411,2023-07-27,Technical Issues
+U0412,2023-06-06,Cost
+U0413,2023-09-15,Content Library
+U0416,2023-10-24,Switched to Competitor
+U0418,2023-12-31,Cost
+U0424,2023-08-09,Cost
+U0425,2023-10-09,Switched to Competitor
+U0427,2023-10-28,Cost
+U0428,2023-05-11,Content Library
+U0429,2023-12-01,Cost
+U0432,2023-06-06,Cost
+U0433,2023-04-21,Content Library
+U0435,2023-10-02,Cost
+U0436,2023-08-05,Switched to Competitor
+U0438,2023-10-29,Technical Issues
+U0440,2024-01-01,Content Library
+U0442,2023-10-31,Cost
+U0444,2024-03-27,Switched to Competitor
+U0446,2024-01-05,Cost
+U0450,2023-06-29,Switched to Competitor
+U0451,2024-03-16,Switched to Competitor
+U0452,2023-11-30,Cost
+U0460,2024-01-31,Switched to Competitor
+U0463,2023-10-29,Content Library
+U0464,2023-08-31,Technical Issues
+U0465,2023-06-15,Cost
+U0470,2023-06-07,Content Library
+U0471,2023-12-16,Switched to Competitor
+U0473,2023-04-08,Cost
+U0475,2023-03-08,Content Library
+U0476,2024-01-16,Switched to Competitor
+U0478,2023-07-12,Switched to Competitor
+U0487,2023-12-16,Cost
+U0492,2023-12-31,Content Library
+U0494,2023-12-26,Cost
+U0496,2023-09-13,Cost
+U0498,2023-02-18,Cost
+U0500,2023-04-30,Technical Issues
