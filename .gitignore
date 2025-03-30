@@ -1,0 +1,29 @@
+# SQL Churn Analysis Project .gitignore
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python environment (if used)
+.env
+*.pyc
+__pycache__/
+
+# Ignore database files (if generated locally)
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore Jupyter checkpoints (if used)
+.ipynb_checkpoints/
+
+# Ignore Excel exports (optional)
+*.xlsx
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore temporary files
+*.tmp
+*.log
